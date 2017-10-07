@@ -26,3 +26,13 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+
+.mapc{
+
+  height: 400px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 38px;
+}
